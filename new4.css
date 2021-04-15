@@ -1,0 +1,220 @@
+/* body {
+    margin: 0px;
+    height: 100vh;
+    width: 100vw;
+    background-color: #fafafa;
+} */
+
+.box1 {
+    position: relative;
+    top: 34px;
+    background-color: rgba(var(--d87, 255, 255, 255), 1);
+    /* justify-content: center; */
+    padding-top: 10px;
+    padding-left: 0px;
+    padding-right: 0px;
+    margin: 0px;
+    width: 350px;
+    height: 410px;
+    border: 1px solid #dbdbdb;
+}
+
+.box2 {
+    display: flex;
+    justify-content: center;
+    margin-top: 24px;
+    margin-left: 0px;
+    margin-right: 0px;
+}
+
+h1 {
+    margin-top: 22px;
+    margin-bottom: 12px;
+    margin-left: 86.50px;
+    margin-right: 86.5px;
+    text-align: center;
+    width: 175px;
+    height: 51px;
+    font-size: 39px;
+}
+
+.one {
+    width: 268px;
+    height: 38px;
+    font-size: 12px;
+    border: 1px solid rgba(var(--ca6, 219, 219, 219), 1);
+    border-radius: 3px;
+    background-color: #fafafa;
+}
+
+.one:nth-of-type(3) {
+    height: 30px;
+}
+
+.box2:nth-of-type(2) {
+    margin-top: 3px;
+}
+
+#rgb {
+    background-color: #b2dffc;
+    border: 0px;
+    padding: 0px;
+    width: 268px;
+    height: 30px;
+    font-size: 14px;
+    color: white;
+}
+
+::placeholder {
+    color: #8e8e8e;
+    opacity: 1;
+}
+
+.clas {
+    background-image: url("https://www.instagram.com/static/bundles/es6/sprite_core_b20f2a3cd7e4.png/b20f2a3cd7e4.png");
+    background-position: 43% 0%;
+}
+
+.two {
+    height: 2px;
+    background-color: rgba(var(--b38, 219, 219, 219), 1);
+}
+
+.three {
+    font-size: 13px;
+    padding: 0px;
+    color: #8e8e8e;
+    text-align: center;
+    margin: 0px 18px;
+    font-weight: 600;
+}
+
+.box3 {
+    display: flex;
+    align-items: center;
+    margin-top: 10px;
+    margin-bottom: 18px;
+    margin-left: 40px;
+    margin-right: 40px;
+}
+
+.forgot-password {
+    font-size: 11px;
+    color: #003569;
+}
+
+/* .signup {
+    color: #3897f0;
+    font-weight: 600;
+} */
+
+/* .box {
+    height: 63px;
+    width: 350px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0px;
+    background-color: white;
+    border: 1px solid #dbdbdb;
+    position: relative;
+    top: 45px;
+    left: 508px;
+} */
+
+/* .box4 {
+    position: relative;
+    top: 20px;
+    height: 63px;
+    width: 350px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: relative;
+    top: 43px;
+} */
+
+/* .iNy2T {
+    width: 396px;
+    height: 25px;
+    position: relative;
+    top: 20px;
+    left: 482px;
+} */
+
+/* .Rt8TI {
+    height: 40px;
+} */
+
+/* .img{
+    height: 150px;
+    width: 150px;
+} */
+
+.img {
+    height: 410px;
+    width: 350px;
+}
+
+/* .pos{
+    position: relative;
+    left: 56px;
+} */
+
+.row1 {
+    height: 444px;
+    margin: 0px;
+    padding: 0px;
+}
+
+.img1 {
+    align-items: flex-end;
+}
+
+/* .img1, .div3 {
+    padding: 0px;
+} */
+
+.fb-login-btn {
+    margin: 1rem;
+    border: 0;
+    cursor: pointer;
+    font-size: 14px;
+    color: #385185;
+    font-weight: 600;
+    background: transparent;
+}
+
+.fb-icon {
+    color: #385185;
+    font-size: 1rem;
+    padding-right: 1px;
+}
+
+.other {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+}
+
+
+.forgot-password {
+    font-size: 11px;
+    color: #003569;
+}
+.btn{
+    width: 162.86px;
+    padding: 0px;
+}
+.span{
+    width: 16px;
+    height: 16px;
+}
+.pos1{
+    position: absolute;
+    top: 700px;
+    width: 350px;
+    height: 63px;
+
+}

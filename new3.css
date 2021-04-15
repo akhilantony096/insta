@@ -1,0 +1,23 @@
+/*@media (max-width: 992px) {
+    body {
+        background-color: lightblue;
+    }
+}*/
+
+@media (max-width:992px) {
+    .align {
+        text-align: end;
+    }
+}
+
+
+
+@media (max-width:768px){
+    .align{
+        text-align:center;
+    }
+    .align1{
+        text-align: center;
+    }
+
+}
